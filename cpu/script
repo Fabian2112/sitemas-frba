@@ -1,0 +1,4 @@
+clear
+make clean 
+make all
+./bin/cpu "/home/utnso/tp-copia-so/config/cpuu.config"  
